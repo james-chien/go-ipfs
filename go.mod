@@ -28,7 +28,7 @@ require (
 	github.com/ipfs/go-ds-measure v0.1.0
 	github.com/ipfs/go-filestore v0.0.3
 	github.com/ipfs/go-fs-lock v0.0.6
-	github.com/ipfs/go-graphsync v0.7.1-0.20210312040155-3e212380e309
+	github.com/ipfs/go-graphsync v0.8.0
 	github.com/ipfs/go-ipfs-blockstore v0.1.4
 	github.com/ipfs/go-ipfs-chunker v0.0.5
 	github.com/ipfs/go-ipfs-cmds v0.6.0
@@ -45,10 +45,10 @@ require (
 	github.com/ipfs/go-ipld-cbor v0.0.5
 	github.com/ipfs/go-ipld-format v0.2.0
 	github.com/ipfs/go-ipld-git v0.0.4-0.20210326054912-6be33ddcbecc
-	github.com/ipfs/go-ipld-legacy v0.0.0-20210312014519-2895f54096d5
+	github.com/ipfs/go-ipld-legacy v0.0.0-20210325015318-9799f2cffab0
 	github.com/ipfs/go-ipns v0.0.2
 	github.com/ipfs/go-log v1.0.4
-	github.com/ipfs/go-merkledag v0.3.3-0.20210312014858-029e8490baca
+	github.com/ipfs/go-merkledag v0.3.3-0.20210325015807-e952d22343f9
 	github.com/ipfs/go-metrics-interface v0.0.1
 	github.com/ipfs/go-metrics-prometheus v0.0.2
 	github.com/ipfs/go-mfs v0.1.2
